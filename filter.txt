@@ -1,2 +1,2 @@
 # START OF FILE
-web.diagnostic.networking.aws.dev
+redgifs.com
